@@ -67,7 +67,6 @@ Définir une classe personnalisée de bouton :
   background-color: var(--red);
 }
 
-
 # Rendre le site responsive (mobile-first) :
 
 Menu en colonne sur mobile.
