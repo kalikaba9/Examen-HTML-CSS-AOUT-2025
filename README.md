@@ -39,7 +39,6 @@ Chaque produit contient une image, un titre et un prix en FCFA.
 Un formulaire contenant les champs : Nom, Email, Téléphone, Message.
 
 Un lien cliquable "📞 Appeler" qui ouvre directement le téléphone :
-
 # <a href="tel:+221764305134">Appeler le commerce</a>
 
 # 2. Styles CSS (style.css obligatoire)
