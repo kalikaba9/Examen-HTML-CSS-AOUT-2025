@@ -76,7 +76,7 @@ Optimiser les images **(taille max 200KB)**.
 
 # 3. Contraintes & Attentes
 
-Respect de la sémantique HTML5 **(<header>, <section>, <article>, <footer>)**.
+Respect de la sémantique HTML5 (header, section, article, footer).
 
 Code clair et bien indenté.
 
