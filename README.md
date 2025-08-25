@@ -2,7 +2,7 @@
 EXAMEN HTML CSS AOUT 2025
 # Avant de commencer le travail clonez le projet et créez une branche ensuite commencer à travailler sur votre Branche. Si vous terminez pusher sur votre Branche.
 
-# Épreuve Pratique – Module HTML/CSS
+# Épreuve Pratique – Module HTML/CSS - DUREE : 3H
 # Sujet :
 
 Conception d’un mini site web vitrine en HTML5 et CSS3 pour un commerce local sénégalais
